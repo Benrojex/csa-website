@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<csa>
+   <version>2.3.3.0</version>  
+   <url>http://de-next.somee.com/csaUpdates/</url>
+<installer>http://de-next.somee.com/csaUpdates/setup.msi</installer>
+</csa>
